@@ -14,7 +14,7 @@
 readonly UNAME_M="$(uname -m)"
 
 # DappsterOS PATHS
-readonly CASA_REPO=dappster-io/DappsterOS
+readonly CASA_REPO=dappsteros-io/DappsterOS
 readonly CASA_UNZIP_TEMP_FOLDER=/tmp/dappsteros
 readonly CASA_BIN=dappsteros
 readonly CASA_BIN_PATH=/usr/bin/dappsteros
@@ -27,7 +27,7 @@ readonly CASA_TEMP_PATH=/var/lib/dappsteros/temp/
 readonly CASA_LOGS_PATH=/var/log/dappsteros/
 readonly CASA_PACKAGE_EXT=".tar.gz"
 readonly CASA_RELEASE_API="https://api.github.com/repos/${CASA_REPO}/releases"
-readonly CASA_OPENWRT_DOCS="https://github.com/dappster-io/DappsterOS-OpenWrt"
+readonly CASA_OPENWRT_DOCS="https://github.com/dappsteros-io/DappsterOS-OpenWrt"
 
 readonly COLOUR_RESET='\e[0m'
 readonly aCOLOUR=(

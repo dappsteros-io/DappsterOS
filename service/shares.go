@@ -14,11 +14,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/command"
-	"github.com/dappster-io/DappsterOS/pkg/config"
-	"github.com/dappster-io/DappsterOS/pkg/utils/file"
-	"github.com/dappster-io/DappsterOS/service/model"
-	model2 "github.com/dappster-io/DappsterOS/service/model"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/command"
+	"github.com/dappsteros-io/DappsterOS/pkg/config"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils/file"
+	"github.com/dappsteros-io/DappsterOS/service/model"
+	model2 "github.com/dappsteros-io/DappsterOS/service/model"
 	"gorm.io/gorm"
 )
 

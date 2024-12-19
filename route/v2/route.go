@@ -1,8 +1,8 @@
 package v2
 
 import (
-	"github.com/dappster-io/DappsterOS/codegen"
-	"github.com/dappster-io/DappsterOS/service"
+	"github.com/dappsteros-io/DappsterOS/codegen"
+	"github.com/dappsteros-io/DappsterOS/service"
 )
 
 type DappsterOS struct {

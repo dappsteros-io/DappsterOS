@@ -9,4 +9,4 @@
 ### 
 
 
-curl -fsSL https://raw.githubusercontent.com/dappster-io/get/main/update.sh | bash
+curl -fsSL https://raw.githubusercontent.com/dappsteros-io/get/main/update.sh | bash

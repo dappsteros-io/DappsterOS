@@ -1,7 +1,7 @@
 package dropbox
 
 import (
-	"github.com/dappster-io/DappsterOS/internal/driver"
+	"github.com/dappsteros-io/DappsterOS/internal/driver"
 )
 
 const ICONURL = "./img/driver/Dropbox.svg"

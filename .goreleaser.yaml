@@ -20,12 +20,12 @@ builds:
   ldflags:
   - -X main.commit={{.Commit}}
   - -X main.date={{.Date}}
-  - -X github.com/dappster-io/DappsterOS/drivers/google_drive.client_id={{.Env.GoogleID}}
-  - -X github.com/dappster-io/DappsterOS/drivers/google_drive.client_secret={{.Env.GoogleSecret}}
-  - -X github.com/dappster-io/DappsterOS/drivers/onedrive.client_id={{.Env.OneDriveID}}
-  - -X github.com/dappster-io/DappsterOS/drivers/onedrive.client_secret={{.Env.OneDriveSecret}}
-  - -X github.com/dappster-io/DappsterOS/drivers/dropbox.app_key={{.Env.DropboxKey}}
-  - -X github.com/dappster-io/DappsterOS/drivers/dropbox.app_secret={{.Env.DropboxSecret}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/google_drive.client_id={{.Env.GoogleID}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/google_drive.client_secret={{.Env.GoogleSecret}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/onedrive.client_id={{.Env.OneDriveID}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/onedrive.client_secret={{.Env.OneDriveSecret}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/dropbox.app_key={{.Env.DropboxKey}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/dropbox.app_secret={{.Env.DropboxSecret}}
   - -s
   - -w
   - -extldflags "-static"
@@ -47,12 +47,12 @@ builds:
   ldflags:
   - -X main.commit={{.Commit}}
   - -X main.date={{.Date}}
-  - -X github.com/dappster-io/DappsterOS/drivers/google_drive.client_id={{.Env.GoogleID}}
-  - -X github.com/dappster-io/DappsterOS/drivers/google_drive.client_secret={{.Env.GoogleSecret}}
-  - -X github.com/dappster-io/DappsterOS/drivers/onedrive.client_id={{.Env.OneDriveID}}
-  - -X github.com/dappster-io/DappsterOS/drivers/onedrive.client_secret={{.Env.OneDriveSecret}}
-  - -X github.com/dappster-io/DappsterOS/drivers/dropbox.app_key={{.Env.DropboxKey}}
-  - -X github.com/dappster-io/DappsterOS/drivers/dropbox.app_secret={{.Env.DropboxSecret}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/google_drive.client_id={{.Env.GoogleID}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/google_drive.client_secret={{.Env.GoogleSecret}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/onedrive.client_id={{.Env.OneDriveID}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/onedrive.client_secret={{.Env.OneDriveSecret}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/dropbox.app_key={{.Env.DropboxKey}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/dropbox.app_secret={{.Env.DropboxSecret}}
   - -s
   - -w
   - -extldflags "-static"
@@ -74,12 +74,12 @@ builds:
   ldflags:
   - -X main.commit={{.Commit}}
   - -X main.date={{.Date}}
-  - -X github.com/dappster-io/DappsterOS/drivers/google_drive.client_id={{.Env.GoogleID}}
-  - -X github.com/dappster-io/DappsterOS/drivers/google_drive.client_secret={{.Env.GoogleSecret}}
-  - -X github.com/dappster-io/DappsterOS/drivers/onedrive.client_id={{.Env.OneDriveID}}
-  - -X github.com/dappster-io/DappsterOS/drivers/onedrive.client_secret={{.Env.OneDriveSecret}}
-  - -X github.com/dappster-io/DappsterOS/drivers/dropbox.app_key={{.Env.DropboxKey}}
-  - -X github.com/dappster-io/DappsterOS/drivers/dropbox.app_secret={{.Env.DropboxSecret}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/google_drive.client_id={{.Env.GoogleID}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/google_drive.client_secret={{.Env.GoogleSecret}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/onedrive.client_id={{.Env.OneDriveID}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/onedrive.client_secret={{.Env.OneDriveSecret}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/dropbox.app_key={{.Env.DropboxKey}}
+  - -X github.com/dappsteros-io/DappsterOS/drivers/dropbox.app_secret={{.Env.DropboxSecret}}
   - -s
   - -w
   - -extldflags "-static"
@@ -192,7 +192,7 @@ changelog:
     - "^test:"
 # release:
 #   github:
-#     owner: dappster-io
+#     owner: dappsteros-io
 #     name: DappsterOS
 #   draft: true
 #   prerelease: auto
@@ -200,7 +200,7 @@ changelog:
 #   name_template: "v{{ .Version }}"
 release:
   github:
-    owner: dappster-io
+    owner: dappsteros-io
     name: DappsterOS
   draft: true
   prerelease: auto

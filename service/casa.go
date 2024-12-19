@@ -4,9 +4,9 @@ import (
 	json2 "encoding/json"
 	"time"
 
-	"github.com/dappster-io/DappsterOS/model"
-	"github.com/dappster-io/DappsterOS/pkg/config"
-	"github.com/dappster-io/DappsterOS/pkg/utils/httper"
+	"github.com/dappsteros-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS/pkg/config"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils/httper"
 	"github.com/tidwall/gjson"
 )
 

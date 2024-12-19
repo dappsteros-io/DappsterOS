@@ -13,7 +13,7 @@ package config
 import (
 	"path/filepath"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/constants"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/constants"
 )
 
 var DappsterOSConfigFilePath = filepath.Join(constants.DefaultConfigPath, "dappsteros.conf")

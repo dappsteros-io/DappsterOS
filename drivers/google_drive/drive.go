@@ -7,11 +7,11 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS/drivers/base"
-	"github.com/dappster-io/DappsterOS/internal/driver"
-	"github.com/dappster-io/DappsterOS/model"
-	"github.com/dappster-io/DappsterOS/pkg/utils"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS/drivers/base"
+	"github.com/dappsteros-io/DappsterOS/internal/driver"
+	"github.com/dappsteros-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils"
 	"github.com/go-resty/resty/v2"
 	"go.uber.org/zap"
 )

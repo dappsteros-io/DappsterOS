@@ -1,13 +1,13 @@
 blank_issues_enabled: false
 contact_links:
 - name: App Request
-  url: https://github.com/dappster-io/DappsterOS-AppStore/issues/new?assignees=&labels=App+Request&template=app_request.yml&title=%5BApp+Request%5D+AppName
+  url: https://github.com/dappsteros-io/DappsterOS-AppStore/issues/new?assignees=&labels=App+Request&template=app_request.yml&title=%5BApp+Request%5D+AppName
   about: Request to add an app to the app store.
 - name: Feature/Enhancement Ideas
-  url: https://github.com/dappster-io/DappsterOS/discussions/164
+  url: https://github.com/dappsteros-io/DappsterOS/discussions/164
   about: Have an idea for a new feature/enhancement?
 - name: Questions, Discussions
-  url: https://github.com/dappster-io/DappsterOS/discussions
+  url: https://github.com/dappsteros-io/DappsterOS/discussions
   about: Ask questions, propose ideas, or discuss anything related to DappsterOS
 - name: Discord
   url: https://discord.gg/knqAbbBbeX

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	model2 "github.com/dappster-io/DappsterOS/service/model"
+	model2 "github.com/dappsteros-io/DappsterOS/service/model"
 	"github.com/mileusna/useragent"
 )
 

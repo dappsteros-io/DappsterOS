@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/dappster-io/DappsterOS/pkg/config"
+	"github.com/dappsteros-io/DappsterOS/pkg/config"
 	"github.com/tidwall/gjson"
 )
 

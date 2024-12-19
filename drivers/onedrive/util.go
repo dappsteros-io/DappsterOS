@@ -6,8 +6,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS/drivers/base"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS/drivers/base"
 	"go.uber.org/zap"
 )
 

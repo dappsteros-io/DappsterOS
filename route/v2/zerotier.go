@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/dappster-io/DappsterOS-Common/utils"
-	"github.com/dappster-io/DappsterOS/codegen"
-	"github.com/dappster-io/DappsterOS/common"
-	"github.com/dappster-io/DappsterOS/pkg/utils/httper"
+	"github.com/dappsteros-io/DappsterOS-Common/utils"
+	"github.com/dappsteros-io/DappsterOS/codegen"
+	"github.com/dappsteros-io/DappsterOS/common"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils/httper"
 	"github.com/labstack/echo/v4"
 	"github.com/tidwall/gjson"
 )

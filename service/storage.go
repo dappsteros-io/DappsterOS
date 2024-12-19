@@ -3,9 +3,9 @@ package service
 import (
 	"io/ioutil"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS/pkg/utils/file"
-	"github.com/dappster-io/DappsterOS/pkg/utils/httper"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils/file"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils/httper"
 	"go.uber.org/zap"
 )
 

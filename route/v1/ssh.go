@@ -7,17 +7,17 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/common_err"
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	sshHelper "github.com/dappster-io/DappsterOS-Common/utils/ssh"
-	"github.com/dappster-io/DappsterOS/pkg/utils"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/common_err"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	sshHelper "github.com/dappsteros-io/DappsterOS-Common/utils/ssh"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils"
 	"github.com/labstack/echo/v4"
 
 	"github.com/gorilla/websocket"
 	"go.uber.org/zap"
 	"golang.org/x/crypto/ssh"
 
-	modelCommon "github.com/dappster-io/DappsterOS-Common/model"
+	modelCommon "github.com/dappsteros-io/DappsterOS-Common/model"
 )
 
 var upgrader = websocket.Upgrader{

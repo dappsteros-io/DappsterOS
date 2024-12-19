@@ -15,12 +15,12 @@ import (
 	"fmt"
 	"os"
 
-	interfaces "github.com/dappster-io/DappsterOS-Common"
-	"github.com/dappster-io/DappsterOS-Common/utils/systemctl"
-	"github.com/dappster-io/DappsterOS/common"
-	"github.com/dappster-io/DappsterOS/pkg/config"
-	"github.com/dappster-io/DappsterOS/pkg/sqlite"
-	"github.com/dappster-io/DappsterOS/service"
+	interfaces "github.com/dappsteros-io/DappsterOS-Common"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/systemctl"
+	"github.com/dappsteros-io/DappsterOS/common"
+	"github.com/dappsteros-io/DappsterOS/pkg/config"
+	"github.com/dappsteros-io/DappsterOS/pkg/sqlite"
+	"github.com/dappsteros-io/DappsterOS/service"
 	"gorm.io/gorm"
 )
 

@@ -18,8 +18,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/dappster-io/DappsterOS/model"
-	"github.com/dappster-io/DappsterOS/service"
+	"github.com/dappsteros-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS/service"
 )
 
 func SendAllHardwareStatusBySocket() {

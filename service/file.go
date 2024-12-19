@@ -19,9 +19,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS/model"
-	"github.com/dappster-io/DappsterOS/pkg/utils/file"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils/file"
 	"github.com/moby/sys/mountinfo"
 	"go.uber.org/zap"
 )

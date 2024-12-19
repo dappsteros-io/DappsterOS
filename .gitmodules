@@ -1,4 +1,4 @@
 [submodule "UI"]
 	path = UI
-	url = https://github.com/dappster-io/DappsterOS-UI.git
+	url = https://github.com/dappsteros-io/DappsterOS-UI.git
 	branch = main

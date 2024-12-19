@@ -18,7 +18,7 @@ on:
 #    tags:
 #      - 'v*'
 env:
-  REPO_URL: https://github.com/dappster-io/DappsterOS.git
+  REPO_URL: https://github.com/dappsteros-io/DappsterOS.git
   REPO_BRANCH: main
   PACK_SH_URL: https://raw.githubusercontent.com/jerrykuku/actions-casa/main/pack.sh
   PACK_SH: pack.sh
@@ -56,21 +56,19 @@ jobs:
 
 
 
-    #      - name: Clone source code
-    #        working-directory: /workdir
-    #        run: |
-    #          df -hT $PWD
-    #          git clone $REPO_URL -b $REPO_BRANCH --recursive casa
-    #          ln -sf /workdir/casa $GITHUB_WORKSPACE/casa
-    #          ls
+        #      - name: Clone source code
+        #        working-directory: /workdir
+        #        run: |
+        #          df -hT $PWD
+        #          git clone $REPO_URL -b $REPO_BRANCH --recursive casa
+        #          ln -sf /workdir/casa $GITHUB_WORKSPACE/casa
+        #          ls
 
 
     - name: Set environment for github-release
       run: |
         echo "VERSION=$(cat types/system.go | grep CURRENTVERSION | awk '$2 == "CURRENTVERSION"{print $4}' | sed 's/"//g')" >>$GITHUB_ENV
         echo "BODY=$(cat types/system.go | grep BODY | awk -F= '{print $2}' | sed 's/"//g')" >>$GITHUB_ENV
-
-
 
     - name: Use Node.js
       uses: actions/setup-node@v3
@@ -117,7 +115,6 @@ jobs:
     - name: list work
       run: ls
 
-
     - name: Update release
       uses: meeDamian/github-release@2.0
       with:
@@ -131,6 +128,7 @@ jobs:
         gzip: false
         allow_override: false
         prerelease: true
+
 #      - name: Upload linux-amd64-dappsteros.tar.gz
 #        id: upload_assets_amd64
 #        uses: shogo82148/actions-upload-release-asset@v1

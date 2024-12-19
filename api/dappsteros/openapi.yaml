@@ -5,21 +5,23 @@ info:
   version: v2
   description: |
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_dark_night_800px.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800px.png">
-        <img alt="DappsterOS" src="https://raw.githubusercontent.com/dappster-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800px.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dappsteros-io/logo/main/dappsteros/dappsteros_banner_dark_night_800px.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dappsteros-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800px.png">
+        <img alt="DappsterOS" src="https://raw.githubusercontent.com/dappsteros-io/logo/main/dappsteros/dappsteros_banner_twilight_blue_800px.png">
     </picture>
 
     DappsterOS API provides miscellaneous methods for different scenarios.
 
-    For issues and discussions, please visit the [GitHub repository](https://github.com/dappster-io/DappsterOS) or join [our Discord](https://discord.gg/knqAbbBbeX).
+    For issues and discussions, please visit the [GitHub repository](https://github.com/dappsteros-io/DappsterOS) or join [our Discord](https://discord.gg/knqAbbBbeX).
 
 servers:
 - url: /v2/dappsteros
 
 tags:
 - name: Health methods
-  description: "These methods are used to check the health and status of the DappsterOS API and associated services. \n #magic___^_^___line"
+  description: "These methods are used to check the health and status of the DappsterOS API and associated services.\ 
+
+    \ #magic___^_^___line"
 - name: File methods
   description: |-
     The File methods allow you to interact with files and directories on the DappsterOS system.
@@ -298,7 +300,6 @@ components:
         application/json:
           schema:
             $ref: "#/components/schemas/ZTInfo"
-
 
   schemas:
     BaseResponse:

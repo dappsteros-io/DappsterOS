@@ -5,7 +5,7 @@ import (
 	"net"
 	"strings"
 
-	httper2 "github.com/dappster-io/DappsterOS/pkg/utils/httper"
+	httper2 "github.com/dappsteros-io/DappsterOS/pkg/utils/httper"
 )
 
 func IsIPv4(address string) bool {

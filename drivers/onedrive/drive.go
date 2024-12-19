@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
 
-	"github.com/dappster-io/DappsterOS/internal/driver"
-	"github.com/dappster-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS/internal/driver"
+	"github.com/dappsteros-io/DappsterOS/model"
 	"go.uber.org/zap"
 )
 

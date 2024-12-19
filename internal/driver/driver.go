@@ -3,7 +3,7 @@ package driver
 import (
 	"context"
 
-	"github.com/dappster-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS/model"
 )
 
 type Driver interface {

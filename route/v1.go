@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/dappster-io/DappsterOS-Common/external"
-	"github.com/dappster-io/DappsterOS-Common/utils/jwt"
-	"github.com/dappster-io/DappsterOS/common"
-	"github.com/dappster-io/DappsterOS/pkg/config"
-	v1 "github.com/dappster-io/DappsterOS/route/v1"
+	"github.com/dappsteros-io/DappsterOS-Common/external"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/jwt"
+	"github.com/dappsteros-io/DappsterOS/common"
+	"github.com/dappsteros-io/DappsterOS/pkg/config"
+	v1 "github.com/dappsteros-io/DappsterOS/route/v1"
 	"github.com/labstack/echo/v4"
 	echo_middleware "github.com/labstack/echo/v4/middleware"
 )

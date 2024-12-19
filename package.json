@@ -1,5 +1,5 @@
 {
-  "name": "@dappster-io/dappsteros-openapi",
+  "name": "@dappsteros-io/dappsteros-openapi",
   "version": "0.0.1",
   
   "scripts": {
@@ -10,7 +10,7 @@
     "generate:ts": "npx openapi-typescript-codegen --input ./api/dappsteros/openapi.yaml --output ./generate",
     "start": "yarn generate:local && yarn build"
   },
-  "homepage": "https://github.com/dappster-io/DappsterOS#readme",
+  "homepage": "https://github.com/dappsteros-io/DappsterOS#readme",
   "description": "dappster Typescript+Axios SDK",
   "keywords": [
     "Dappster",

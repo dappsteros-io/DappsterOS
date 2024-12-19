@@ -11,9 +11,9 @@
 package service
 
 import (
-	"github.com/dappster-io/DappsterOS-Common/external"
-	"github.com/dappster-io/DappsterOS/codegen/message_bus"
-	"github.com/dappster-io/DappsterOS/pkg/config"
+	"github.com/dappsteros-io/DappsterOS-Common/external"
+	"github.com/dappsteros-io/DappsterOS/codegen/message_bus"
+	"github.com/dappsteros-io/DappsterOS/pkg/config"
 	"github.com/gorilla/websocket"
 	"github.com/patrickmn/go-cache"
 	"gorm.io/gorm"

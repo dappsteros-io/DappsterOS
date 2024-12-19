@@ -3,9 +3,9 @@ package v1
 import (
 	"fmt"
 
-	"github.com/dappster-io/DappsterOS/model"
-	"github.com/dappster-io/DappsterOS/pkg/utils/common_err"
-	"github.com/dappster-io/DappsterOS/service"
+	"github.com/dappsteros-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils/common_err"
+	"github.com/dappsteros-io/DappsterOS/service"
 	"github.com/labstack/echo/v4"
 )
 

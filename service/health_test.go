@@ -3,7 +3,7 @@ package service_test
 import (
 	"testing"
 
-	"github.com/dappster-io/DappsterOS/service"
+	"github.com/dappsteros-io/DappsterOS/service"
 	"github.com/stretchr/testify/assert"
 )
 

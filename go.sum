@@ -14,8 +14,8 @@ github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf/go.mod h1:F5haX7
 github.com/coreos/go-systemd/v22 v22.5.0 h1:RrqgGjYQKalulkV8NGVIfkXQf6YYmOyiJKk8iXXhfZs=
 github.com/coreos/go-systemd/v22 v22.5.0/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
-github.com/dappster-io/DappsterOS-Common v0.4.9-alpha12 h1:Er3B3GlTwPvTzWbHRYXBxAYhOLXzBYZIX5NdNKzstMQ=
-github.com/dappster-io/DappsterOS-Common v0.4.9-alpha12/go.mod h1:i6+PKKrMdAJcQOGSoV74QmFXaYYlImG9YVwhBy2CdOo=
+github.com/dappsteros-io/DappsterOS-Common v0.4.11 h1:Zgk8LtL1LULX1L6onj4DYDkVoe4qzGZBb3HpPBP6bVk=
+github.com/dappsteros-io/DappsterOS-Common v0.4.11/go.mod h1:cF9eNrRmbTd0/fvCA/++TMwh795OtB6cD7LxbIIkI/M=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

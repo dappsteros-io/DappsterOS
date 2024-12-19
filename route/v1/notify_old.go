@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/dappster-io/DappsterOS/service"
-	"github.com/dappster-io/DappsterOS/types"
+	"github.com/dappsteros-io/DappsterOS/service"
+	"github.com/dappsteros-io/DappsterOS/types"
 	"github.com/gorilla/websocket"
 	"github.com/labstack/echo/v4"
 )

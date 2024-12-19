@@ -8,12 +8,12 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS/common"
-	model2 "github.com/dappster-io/DappsterOS/model"
-	"github.com/dappster-io/DappsterOS/model/notify"
-	"github.com/dappster-io/DappsterOS/service/model"
-	"github.com/dappster-io/DappsterOS/types"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS/common"
+	model2 "github.com/dappsteros-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS/model/notify"
+	"github.com/dappsteros-io/DappsterOS/service/model"
+	"github.com/dappsteros-io/DappsterOS/types"
 	"go.uber.org/zap"
 	"golang.org/x/sync/syncmap"
 

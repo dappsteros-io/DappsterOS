@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dappster-io/DappsterOS/pkg/utils/file"
-	model2 "github.com/dappster-io/DappsterOS/service/model"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils/file"
+	model2 "github.com/dappsteros-io/DappsterOS/service/model"
 	"github.com/glebarez/sqlite"
 	"gorm.io/gorm"
 )

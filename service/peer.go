@@ -11,8 +11,8 @@
 package service
 
 import (
-	"github.com/dappster-io/DappsterOS/service/model"
-	model2 "github.com/dappster-io/DappsterOS/service/model"
+	"github.com/dappsteros-io/DappsterOS/service/model"
+	model2 "github.com/dappsteros-io/DappsterOS/service/model"
 	"gorm.io/gorm"
 )
 

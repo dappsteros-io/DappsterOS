@@ -143,7 +143,7 @@ changelog:
     - "^test:"
 # release:
 #   github:
-#     owner: dappster-io
+#     owner: dappsteros-io
 #     name: DappsterOS
 #   draft: true
 #   prerelease: auto
@@ -151,7 +151,7 @@ changelog:
 #   name_template: "v{{ .Version }}"
 release:
   github:
-    owner: dappster-io
+    owner: dappsteros-io
     name: DappsterOS
   draft: true
   prerelease: auto

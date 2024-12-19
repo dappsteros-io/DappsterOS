@@ -16,9 +16,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/constants"
-	"github.com/dappster-io/DappsterOS/common"
-	"github.com/dappster-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/constants"
+	"github.com/dappsteros-io/DappsterOS/common"
+	"github.com/dappsteros-io/DappsterOS/model"
 	"github.com/go-ini/ini"
 )
 

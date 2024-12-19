@@ -1,7 +1,7 @@
 package main
 
 import (
-	interfaces "github.com/dappster-io/DappsterOS-Common"
+	interfaces "github.com/dappsteros-io/DappsterOS-Common"
 )
 
 type migrationTool struct{}

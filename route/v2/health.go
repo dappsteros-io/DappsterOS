@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dappster-io/DappsterOS/codegen"
-	"github.com/dappster-io/DappsterOS/pkg/utils/file"
-	"github.com/dappster-io/DappsterOS/service"
+	"github.com/dappsteros-io/DappsterOS/codegen"
+	"github.com/dappsteros-io/DappsterOS/pkg/utils/file"
+	"github.com/dappsteros-io/DappsterOS/service"
 	"github.com/labstack/echo/v4"
 	"github.com/mholt/archiver/v3"
 )

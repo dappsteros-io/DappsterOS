@@ -3,7 +3,7 @@ package gredis
 import (
 	"time"
 
-	"github.com/dappster-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS/model"
 	"github.com/gomodule/redigo/redis"
 )
 

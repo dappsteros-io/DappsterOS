@@ -12,7 +12,7 @@ on:
 
 jobs:
   sync:
-    uses: dappster-io/github/.github/workflows/sync_openapi.yml@main
+    uses: dappsteros-io/github/.github/workflows/sync_openapi.yml@main
     with:
       project-name: dappsteros
     secrets:

@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/dappster-io/DappsterOS-Common/utils/port"
-	"github.com/dappster-io/DappsterOS-Common/utils/systemctl"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/port"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/systemctl"
 )
 
 type HealthService interface {

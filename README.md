@@ -14,31 +14,31 @@
     <br/>
     <br/>
     <!-- DappsterOS Badges -->
-    <a href="https://github.com/dappster-io/DappsterOS" target="_blank">
-        <img alt="DappsterOS Version" src="https://img.shields.io/github/v/release/dappster-io/DappsterOS?color=162453&style=flat-square&label=DappsterOS" />
+    <a href="https://github.com/dappsteros-io/DappsterOS" target="_blank">
+        <img alt="DappsterOS Version" src="https://img.shields.io/github/v/release/dappsteros-io/DappsterOS?color=162453&style=flat-square&label=DappsterOS" />
     </a>
-    <a href="https://github.com/dappster-io/DappsterOS/blob/main/LICENSE" target="_blank">
-        <img alt="DappsterOS License" src="https://img.shields.io/github/license/dappster-io/DappsterOS?color=162453&style=flat-square&label=License" />
+    <a href="https://github.com/dappsteros-io/DappsterOS/blob/main/LICENSE" target="_blank">
+        <img alt="DappsterOS License" src="https://img.shields.io/github/license/dappsteros-io/DappsterOS?color=162453&style=flat-square&label=License" />
     </a>
-    <a href="https://github.com/dappster-io/DappsterOS/pulls" target="_blank">
-        <img alt="DappsterOS Pull Requests" src="https://img.shields.io/github/issues-pr/dappster-io/DappsterOS?color=162453&style=flat-square&label=PRs" />
+    <a href="https://github.com/dappsteros-io/DappsterOS/pulls" target="_blank">
+        <img alt="DappsterOS Pull Requests" src="https://img.shields.io/github/issues-pr/dappsteros-io/DappsterOS?color=162453&style=flat-square&label=PRs" />
     </a>
-    <a href="https://github.com/dappster-io/DappsterOS/issues" target="_blank">
-        <img alt="DappsterOS Issues" src="https://img.shields.io/github/issues/dappster-io/DappsterOS?color=162453&style=flat-square&label=Issues" />
+    <a href="https://github.com/dappsteros-io/DappsterOS/issues" target="_blank">
+        <img alt="DappsterOS Issues" src="https://img.shields.io/github/issues/dappsteros-io/DappsterOS?color=162453&style=flat-square&label=Issues" />
     </a>
-    <a href="https://codecov.io/gh/dappster-io/DappsterOS" > 
-    <img src="https://codecov.io/gh/dappster-io/DappsterOS/branch/main/graph/badge.svg?token=l9uMKGlkxM"/> 
+    <a href="https://codecov.io/gh/dappsteros-io/DappsterOS" > 
+    <img src="https://codecov.io/gh/dappsteros-io/DappsterOS/branch/main/graph/badge.svg?token=l9uMKGlkxM"/> 
     </a>
-    <a href="https://github.com/dappster-io/DappsterOS/stargazers" target="_blank">
-        <img alt="DappsterOS Stargazers" src="https://img.shields.io/github/stars/dappster-io/DappsterOS?color=162453&style=flat-square&label=Stars" />
+    <a href="https://github.com/dappsteros-io/DappsterOS/stargazers" target="_blank">
+        <img alt="DappsterOS Stargazers" src="https://img.shields.io/github/stars/dappsteros-io/DappsterOS?color=162453&style=flat-square&label=Stars" />
     </a>
-    <!-- <a href="https://github.com/dappster-io/DappsterOS/releases" target="_blank">
-    <img alt="DappsterOS Downloads" src="https://img.shields.io/github/downloads/dappster-io/DappsterOS/total?color=162453&style=flat-square" />
+    <!-- <a href="https://github.com/dappsteros-io/DappsterOS/releases" target="_blank">
+    <img alt="DappsterOS Downloads" src="https://img.shields.io/github/downloads/dappsteros-io/DappsterOS/total?color=162453&style=flat-square" />
     </a> -->
     <br/>
     <!-- DappsterOS Community -->
-    <a href="https://github.com/dappster-io/DappsterOS/discussions" target="_blank">
-        <img alt="DappsterOS GitHub Discussions" src="https://img.shields.io/github/discussions/dappster-io/DappsterOS?color=162453&style=flat-square&label=Discussions&logo=github" />
+    <a href="https://github.com/dappsteros-io/DappsterOS/discussions" target="_blank">
+        <img alt="DappsterOS GitHub Discussions" src="https://img.shields.io/github/discussions/dappsteros-io/DappsterOS?color=162453&style=flat-square&label=Discussions&logo=github" />
     </a>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <a href="#credits"><img alt="All Contributors" src="https://img.shields.io/static/v1?label=All%20Contributors&message=15&color=162453&style=flat-square&logo=Handshake&logoColor=fff" /></a>
@@ -52,15 +52,15 @@
     <!-- DappsterOS Links -->
     <a href="https://www.dappster.io" target="_blank">Website</a> |
     <a href="http://demo.dappster.io" target="_blank">Demo</a> |
-    <a href="https://github.com/dappster-io/DappsterOS" target="_blank">GitHub</a>
+    <a href="https://github.com/dappsteros-io/DappsterOS" target="_blank">GitHub</a>
     <br/>
     <br/>
     <!-- DappsterOS Snapshots -->
     <kbd>
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dappster-io/DappsterOS/raw/main/snapshot-dark.jpg">
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/dappster-io/DappsterOS/raw/main/snapshot-light.jpg">
-          <img alt="DappsterOS Snapshot" src="https://github.com/dappster-io/DappsterOS/raw/main/snapshot-light.jpg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dappsteros-io/DappsterOS/raw/main/snapshot-dark.jpg">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/dappsteros-io/DappsterOS/raw/main/snapshot-light.jpg">
+          <img alt="DappsterOS Snapshot" src="https://github.com/dappsteros-io/DappsterOS/raw/main/snapshot-light.jpg">
       </picture>
     </kbd>
 </p>
@@ -200,12 +200,12 @@ Everyone's contribution is greatly appreciated. ([Emoji Key](https://allcontribu
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/hotbrainy"><img src="https://avatars.githubusercontent.com/u/23500764?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HotBrainy</b></sub></a><br /><a href="https://github.com/dappster-io/DappsterOS/commits?author=jerrykuku" title="Code">💻</a> <a href="https://github.com/dappster-io/DappsterOS/commits?author=jerrykuku" title="Documentation">📖</a> <a href="#ideas-jerrykuku" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-jerrykuku" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-jerrykuku" title="Maintenance">🚧</a> <a href="#platform-jerrykuku" title="Packaging/porting to new platform">📦</a> <a href="#question-jerrykuku" title="Answering Questions">💬</a> <a href="https://github.com/dappster-io/DappsterOS/pulls?q=is%3Apr+reviewed-by%3Ajerrykuku" title="Reviewed Pull Requests">👀</a></td>     
+    <td align="center"><a href="https://github.com/hotbrainy"><img src="https://avatars.githubusercontent.com/u/23500764?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HotBrainy</b></sub></a><br /><a href="https://github.com/dappsteros-io/DappsterOS/commits?author=jerrykuku" title="Code">💻</a> <a href="https://github.com/dappsteros-io/DappsterOS/commits?author=jerrykuku" title="Documentation">📖</a> <a href="#ideas-jerrykuku" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-jerrykuku" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-jerrykuku" title="Maintenance">🚧</a> <a href="#platform-jerrykuku" title="Packaging/porting to new platform">📦</a> <a href="#question-jerrykuku" title="Answering Questions">💬</a> <a href="https://github.com/dappsteros-io/DappsterOS/pulls?q=is%3Apr+reviewed-by%3Ajerrykuku" title="Reviewed Pull Requests">👀</a></td>     
   </tr> 
   <tr>
-    <td align="center"><a href="https://github.com/llwaini"><img src="https://avatars.githubusercontent.com/u/59589857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>llwaini</b></sub></a><br /><a href="#projectManagement-llwaini" title="Project Management">📆</a> <a href="https://github.com/dappster-io/DappsterOS/commits?author=llwaini" title="Tests">⚠️</a> <a href="#tutorial-llwaini" title="Tutorials">✅</a></td>
-    <td align="center"><a href="https://github.com/CorrectRoadH"><img src="https://avatars.githubusercontent.com/u/29306285?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CorrectRoadH</b></sub></a><br /><a href="https://github.com/dappster-io/DappsterOS/commits?author=correctroadh" title="Code">💻</a> <a href="https://github.com/dappster-io/DappsterOS/commits?author=correctroadh" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/zhanghengxin"><img src="https://avatars.githubusercontent.com/u/24197448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zhanghengxin</b></sub></a><br /><a href="https://github.com/dappster-io/DappsterOS/commits?author=zhanghengxin" title="Code">💻</a> <a href="https://github.com/dappster-io/DappsterOS/commits?author=zhanghengxin" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/llwaini"><img src="https://avatars.githubusercontent.com/u/59589857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>llwaini</b></sub></a><br /><a href="#projectManagement-llwaini" title="Project Management">📆</a> <a href="https://github.com/dappsteros-io/DappsterOS/commits?author=llwaini" title="Tests">⚠️</a> <a href="#tutorial-llwaini" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/CorrectRoadH"><img src="https://avatars.githubusercontent.com/u/29306285?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CorrectRoadH</b></sub></a><br /><a href="https://github.com/dappsteros-io/DappsterOS/commits?author=correctroadh" title="Code">💻</a> <a href="https://github.com/dappsteros-io/DappsterOS/commits?author=correctroadh" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/zhanghengxin"><img src="https://avatars.githubusercontent.com/u/24197448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zhanghengxin</b></sub></a><br /><a href="https://github.com/dappsteros-io/DappsterOS/commits?author=zhanghengxin" title="Code">💻</a> <a href="https://github.com/dappsteros-io/DappsterOS/commits?author=zhanghengxin" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -218,7 +218,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/dappster-io/DappsterOS/releases).
+Detailed changes for each release are documented in the [release notes](https://github.com/dappsteros-io/DappsterOS/releases).
 
 ---
 

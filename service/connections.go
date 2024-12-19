@@ -13,8 +13,8 @@ package service
 import (
 	"fmt"
 
-	"github.com/dappster-io/DappsterOS/service/model"
-	model2 "github.com/dappster-io/DappsterOS/service/model"
+	"github.com/dappsteros-io/DappsterOS/service/model"
+	model2 "github.com/dappsteros-io/DappsterOS/service/model"
 	"github.com/moby/sys/mount"
 	"golang.org/x/sys/unix"
 	"gorm.io/gorm"

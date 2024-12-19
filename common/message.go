@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/dappster-io/DappsterOS/codegen/message_bus"
+	"github.com/dappsteros-io/DappsterOS/codegen/message_bus"
 )
 
 // devtype -> action -> event

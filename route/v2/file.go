@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/dappster-io/DappsterOS/codegen"
+	"github.com/dappsteros-io/DappsterOS/codegen"
 	"github.com/labstack/echo/v4"
 )
 

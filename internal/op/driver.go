@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/dappster-io/DappsterOS/internal/conf"
+	"github.com/dappsteros-io/DappsterOS/internal/conf"
 
-	"github.com/dappster-io/DappsterOS/internal/driver"
+	"github.com/dappsteros-io/DappsterOS/internal/driver"
 	"github.com/pkg/errors"
 )
 

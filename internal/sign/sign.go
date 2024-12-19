@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dappster-io/DappsterOS/pkg/sign"
+	"github.com/dappsteros-io/DappsterOS/pkg/sign"
 )
 
 var once sync.Once

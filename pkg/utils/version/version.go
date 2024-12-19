@@ -14,8 +14,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/dappster-io/DappsterOS/common"
-	"github.com/dappster-io/DappsterOS/model"
+	"github.com/dappsteros-io/DappsterOS/common"
+	"github.com/dappsteros-io/DappsterOS/model"
 )
 
 func IsNeedUpdate(version model.Version) (bool, model.Version) {
